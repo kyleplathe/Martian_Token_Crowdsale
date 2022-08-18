@@ -16,3 +16,9 @@ Successfully compiled contract.
 ## Step 2: Create the KaseiCoin Crowdsale Contract
 Successfully compiled contract.
 ![KaseiCoinCrowdsale](EvaluationEvidence/KaseiCoin%20Crowdsale%20Contract.png)
+
+## Step 3: Create the KaseiCoin Deployer Contract
+Successfully compiled contract.
+![DeployerContract](EvaluationEvidence/DeployerContract.png)
+
+## Step 4: Deploy and Test the Crowdsale on a Local Blockchain
