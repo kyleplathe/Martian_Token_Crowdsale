@@ -5,3 +5,14 @@ After waiting for years and passing several tests, the Martian Aerospace Agency 
 
 KaseiCoin will be a fungible token that’s ERC-20 compliant. I'll launch a crowdsale that will allow people who are moving to Mars to convert their earthling money to KaseiCoin.
 
+## Solidity Files
+[KaseiCoin.sol](https://github.com/kyleplathe/Martian_Token_Crowdsale/blob/main/Contract/KaseiCoin.sol) </br>
+[KaseiCoinCrowdsale.sol](https://github.com/kyleplathe/Martian_Token_Crowdsale/blob/main/Contract/KaseiCoinCrowdsale.sol)
+
+## Step 1: Create the KaseiCoin Token Contract
+Successfully compiled contract.
+![KaseiCoinContract](EvaluationEvidence/KaseiCoinTokenContract.png)
+
+## Step 2: Create the KaseiCoin Crowdsale Contract
+Successfully compiled contract.
+![KaseiCoinCrowdsale](EvaluationEvidence/KaseiCoin%20Crowdsale%20Contract.png)
