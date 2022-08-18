@@ -22,4 +22,4 @@ Successfully compiled contract.
 ![DeployerContract](EvaluationEvidence/DeployerContract.png)
 
 ## Step 4: Deploy and Test the Crowdsale on a Local Blockchain
-![Deploy&Test](EvaluationEvidence/Deploy_and_Test_Crowdsale_AdobeExpress.gif)
+![Deploy&Test](EvaluationEvidence/Deploy-and-Test-Crowdsale.gif)
